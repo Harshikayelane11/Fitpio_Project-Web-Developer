@@ -1,0 +1,26 @@
+.dashboard {
+    padding: 20px;
+    background-color: #1f1f1f;
+    color: white;
+  }
+  .overview {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .overviewItem {
+    flex: 1;
+    margin: 10px;
+    padding: 20px;
+    background-color: #2c2c2e;
+    border-radius: 10px;
+  }
+  .userImage {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+  }
+
+  .chartContainer {
+    margin: 40px 0;
+  }

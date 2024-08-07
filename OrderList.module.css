@@ -1,0 +1,13 @@
+.orderList {
+    margin: 20px 0;
+  }
+  .orderList table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .orderList th, .orderList td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #444;
+  }
+  

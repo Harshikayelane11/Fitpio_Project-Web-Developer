@@ -1,0 +1,10 @@
+.feedbackList {
+    margin: 20px 0;
+  }
+  .feedbackItem {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #2c2c2e;
+    border-radius: 10px;
+  }
+  
